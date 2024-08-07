@@ -11,7 +11,6 @@
 - 📫 How to reach me:
     - Email: [laishillary20@gmail.com](mailto:laishillary20@gmail.com)
     - LinkedIn: [Laís Hillary Santos de Miranda](https://www.linkedin.com/in/la%C3%ADs-hillary-santos-de-miranda-b77344276)
-    - Workalove: [Laís Hillary Santos de Miranda](https://unijorge.worka.love/perfil/lais-hillary-santos-de-miranda-e784-8bc1)
     
 - 😄 Pronouns: She/Her
 
@@ -30,6 +29,5 @@
 - 📫 Como me encontrar:
     - Email: [laishillary20@gmail.com](mailto:laishillary20@gmail.com)
     - LinkedIn: [Laís Hillary Santos de Miranda](https://www.linkedin.com/in/la%C3%ADs-hillary-santos-de-miranda-b77344276)
-    - Workalove: [Laís Hillary Santos de Miranda](https://unijorge.worka.love/perfil/lais-hillary-santos-de-miranda-e784-8bc1)
-    
+
 - 😄 Pronomes: Ela/Dela
