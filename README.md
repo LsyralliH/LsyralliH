@@ -1,3 +1,5 @@
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LsyralliH&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LsyralliH&layout=compact&theme=radical)
+
 - 👋 Hi, I’m @LsyralliH
 
 - 👀 I’m interested in hardware and robotics.
@@ -31,8 +33,4 @@
     - LinkedIn: [Laís Hillary Santos de Miranda](https://www.linkedin.com/in/la%C3%ADs-hillary-santos-de-miranda-b77344276)
 
 - 😄 Pronomes: Ela/Dela
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LsyralliH&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LsyralliH&layout=compact&theme=radical)
 
