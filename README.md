@@ -35,8 +35,9 @@
 
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LsyralliH&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LsyralliH&layout=compact&theme=radical)
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LsyralliH&theme=radical)
- ![GitHub Calendar](https://github.com/platane/calendar-badge/raw/master/calendar.svg?user=LsyralliH&theme=github)
+
+![GitHub Calendar](https://github.com/platane/calendar-badge/raw/master/calendar.svg?user=LsyralliH&theme=github)
+
 
 
 
