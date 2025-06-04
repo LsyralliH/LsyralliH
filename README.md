@@ -1,4 +1,3 @@
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LsyralliH&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LsyralliH&layout=compact&theme=radical)
 
 - 👋 Hi, I’m @LsyralliH
 
@@ -33,4 +32,11 @@
     - LinkedIn: [Laís Hillary Santos de Miranda](https://www.linkedin.com/in/la%C3%ADs-hillary-santos-de-miranda-b77344276)
 
 - 😄 Pronomes: Ela/Dela
+
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LsyralliH&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LsyralliH&layout=compact&theme=radical)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LsyralliH&theme=radical)
+ ![GitHub Calendar](https://github.com/platane/calendar-badge/raw/master/calendar.svg?user=LsyralliH&theme=github)
+
+
 
