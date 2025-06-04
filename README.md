@@ -31,3 +31,4 @@
     - LinkedIn: [Laís Hillary Santos de Miranda](https://www.linkedin.com/in/la%C3%ADs-hillary-santos-de-miranda-b77344276)
 
 - 😄 Pronomes: Ela/Dela
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+um+dev+legal!;Bem-vindo+ao+meu+GitHub!" />
